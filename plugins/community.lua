@@ -12,4 +12,5 @@ return {
   { import = "astrocommunity.pack.bash" },
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.yaml" },
+  { import = "astrocommunity.pack.python" },
 }
